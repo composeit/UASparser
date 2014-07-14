@@ -1,5 +1,5 @@
 {
-    "name": "b3n01t/UASParser",
+    "name": "composeit/UASParser",
     "license": "GNU LESSER GENERAL PUBLIC LICENSE",
     "keywords": ["user","agent","ua"],
     "type": "library",
