@@ -1,0 +1,10 @@
+{
+    "name": "b3n01t/UASParser",
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+    "keywords": ["user","agent","ua"],
+    "type": "library",
+    "description": "User agent decoder; http://user-agent-string.info/",
+    "autoload": {
+        "files": ["librairies/UASparser.php"]
+    }
+}
